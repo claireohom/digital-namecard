@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Li;Claire;;;
+FN: Claire  Li 
+ORG:Keller Williams Realty Cary;
+TITLE:Realtor
+EMAIL;type=INTERNET;type=WORK;type=pref:kwreaclaire@gmail.com
+TEL;type=WORK;type=VOICE:984-292-2999
+item1.ADR;type=WORK;type=pref:;;525 New Waverly Place Suite 202, Cary, NC 27518
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.facebook.com/profile.php?id=100014265612178
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
